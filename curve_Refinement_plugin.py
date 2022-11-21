@@ -13,7 +13,7 @@ toolset.registerGuiMenuButton(
     icon=None,
     applicableModules=['Part', 'Property', 'Assembly', 'Step', 'Interaction', 'Load', 'Mesh', 'Optimization'],
     version='1.0',
-    author='Matthias Ernst, Dassault Systemes Germany',
+    author='Matthias Ernst',
     description='Change curve refinement for all parts (with geometry) of currently displayed model.',
     helpUrl='N/A'
 )
